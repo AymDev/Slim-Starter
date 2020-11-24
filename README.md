@@ -1,5 +1,6 @@
 # Slim Starter
 Preconfigured Slim app including **PHP-DI**, **Twig** and **Doctrine DBAL**.
+>Minimum requirement: **PHP 7.2**
 
 # Installation
 Clone the repository, move into the created directory and install **Composer** dependencies:
