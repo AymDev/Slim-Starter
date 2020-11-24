@@ -5,8 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.1.0] - 2020-11-24
 ### Added
  - support for **PHP 7.2**
+ - **Whoops** for error handling
 
 ### Removed
  - custom **Composer** command `serve` which fails due to **PHP** `max_execution_time` ini directive.
@@ -20,5 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - default homepage
  - development web server command
 
-[Unreleased]: https://github.com/AymDev/Slim-Starter/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/AymDev/Slim-Starter/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/AymDev/Slim-Starter/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/AymDev/Slim-Starter/releases/tag/v1.0.0
