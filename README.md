@@ -11,9 +11,9 @@ composer install
 
 # Usage
 The web server implementation is left to the developer. 
-For a quick start, use the *PHP built-in server* which can also be started with the custom **Composer** command:
+For a quick start, use the *PHP built-in server*:
 ```sh
-composer serve
+php -S localhost:8000 -t public
 ```
 You will find the default page on `http://localhost:8000`.
 
